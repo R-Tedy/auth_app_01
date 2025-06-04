@@ -14,7 +14,7 @@ const page = () => {
           className=' w-full object-cover object-center h-full rounded-br-[100px]'
         />
       </div>
-      <div className='flex justify-center items-center min-h-screen'>
+      <div className='flex justify-center items-center min-h-screen lg:w-5/12'>
         <AuthForm/>
       </div>
     </section>
